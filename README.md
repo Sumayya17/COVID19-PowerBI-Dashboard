@@ -27,7 +27,7 @@ This real-time dashboard visualizes key COVID-19 metrics across the globe, built
 
 ## 📸 Project Preview
 
-![Dashboard Preview](![Dashboard Preview](/Users/sumayyafathimashaik/Downloads/Covid-19_Dashboard_SumayyaShaik.png))
+![Dashboard Preview](![Dashboard Preview](Covid-19_Dashboard_SumayyaShaik.png))
 
 ## 🧠 Sample Insights
 
